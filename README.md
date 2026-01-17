@@ -39,7 +39,7 @@ I am an **Electronics & Communications Engineer** focused on bringing hardware t
 
 ---
 
-## 📫 Let's Architect the Future:
+## 📫 Let's contact :
 <p align="center">
   <a href="https://www.linkedin.com/in/khaled-galal-b10ba326b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
