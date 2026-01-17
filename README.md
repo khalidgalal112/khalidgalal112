@@ -6,7 +6,6 @@
 </p>
 
 <!-- ✅ Your Name (Big & Clean) -->
-<h1 align="center">👋 I'm Khalid Galal</h1>
 <h3 align="center">Embedded & Communication Engineer | AI & Automation</h3>
 
 <!-- ✅ Your Custom Banner Here -->
