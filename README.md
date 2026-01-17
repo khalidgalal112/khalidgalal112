@@ -1,14 +1,22 @@
 # <p align="center">⚡ Welcome to my Digital Command Center ⚡</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Khalid Galal;Electronics+%26+Communications+Engineer;Embedded+Systems+%26+Control+Specialist;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
-</p>
+# <p align="center">⚡ Welcome to my Digital Command Center ⚡</p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Embedded Systems" width="450" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=520&lines=Hi+I'm+Khalid+Galal;Communication+Engineer;AI+%26+Automation+Enthusiast;MATLAB+%26+Programming+Lover" alt="Typing SVG" />
+</p>
+
+<!-- ✅ Your Name (Big & Clean) -->
+<h1 align="center">👋 I'm Khalid Galal</h1>
+<h3 align="center">Embedded & Communication Engineer | AI & Automation</h3>
+
+<!-- ✅ Your Custom Banner Here -->
+<p align="center">
+  <img src="assets/banner.png" alt="Embedded + AI Banner" width="700" />
 </p>
 
 ---
+
 
 ## 🤖 Passion for Intelligence & Control
 I am an **Electronics & Communications Engineer** focused on bringing hardware to life. I specialize in designing intelligent control systems and integrating Machine Learning into embedded devices.
