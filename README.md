@@ -1,47 +1,29 @@
-👋 About Me 👨‍💻
+# 👋 Hi, I'm [Khalid Galal]
+### 🎓 Electronics & Electrical Communications Engineer | AI & Machine Learning Enthusiast|MATLAB
 
-I am a Communication Engineer 📡 with a strong passion for Artificial Intelligence 🤖, Automation ⚙️, and programming 💻.
-I am constantly learning and improving my skills in different programming languages 🧠, with a special focus on MATLAB 📊 for analysis, simulation, and problem-solving.
+---
 
-🎯 Interests 🔍
+## 🚀 About Me
+- 🔭 I’m currently focusing on **Machine Learning** and **Deep Learning** applications in communications.
+- ⚡ **Fun Fact:** I love bridging the gap between hardware (Electronics) and software (AI).
+- 🌱 I’m currently learning: **Computer Vision** and **Neural Networks**.
+  
 
-Artificial Intelligence (AI) 🤖
+---
 
-Automation & Control Systems ⚙️
+## 🛠 Skills
+- **Core:** Electronics, Signal Processing, Embedded Systems.
+- **AI/ML:** Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy.
+- **Tools:** Git & GitHub, MATLAB, Linux.
 
-Programming & Software Development 💻
+---
 
-Signal Processing & Communication Systems 📶
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical)
 
-Engineering Simulations using MATLAB 📊
+---
 
-🛠️ Skills & Tools 🧰
-
-Programming Languages: Python 🐍, C/C++ 💡, MATLAB 📊
-
-Engineering Tools: MATLAB, Simulink
-
-Concepts: Communication Systems 📡, Signals 📈, Automation Basics ⚙️
-
-Version Control: Git & GitHub 🌐
-
-📚 Current Focus 📖
-
-Improving problem-solving skills through coding 🧠
-
-Applying AI concepts in engineering applications 🤖
-
-Enhancing MATLAB proficiency for simulations and modeling 📊
-
-🚀 Goals 🚀
-
-Build real-world engineering and AI-related projects 🏗️
-
-Combine communication engineering with automation and AI 🤝
-
-Continuously learn and grow as an engineer and developer 🌱
-
-👤 Author ✍️
-
-Khalid Galal
-Communication Engineer 📡 | AI & Automation Enthusiast 🤖⚙️
+## 📫 Connect with me:
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/[YOUR-LINKEDIN])
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
