@@ -1,7 +1,7 @@
 # <p align="center">⚡ Welcome to my Digital Command Center ⚡</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Hi+I'm+[YourName];Electronics+%26+Communications+Engineer;Embedded+Systems+%26+Control+Specialist;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Khalid Galal;Electronics+%26+Communications+Engineer;Embedded+Systems+%26+Control+Specialist;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
